@@ -1,0 +1,34 @@
+IN LOCAL REPO
+
+git add "file.txt"-- single file
+git add . -- multiple files
+
+git commit -m "comitting files"
+
+
+REMOTE REPO PUSH
+
+git push -u origin master
+
+CLONE
+
+git clone url
+
+
+CREATE BRANCH
+
+git branch nameofbranch
+
+
+USE BRANCH
+
+git checkout nameofbranch
+
+MERGE
+
+git merge nameofbranch -m "merging"
+
+
+PULL
+
+git pull origin master or anybranchname
