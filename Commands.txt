@@ -1,4 +1,4 @@
-IN LOCAL REPO
+IN LOCAL REPOS
 git init
 git config — global user.name
 
