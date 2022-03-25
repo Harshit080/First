@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Hello world1111
 222222
+=======
+Hello world1
+
+>>>>>>> parent of a85d0ed (commiting)
 2world hello
 
 3 wh
