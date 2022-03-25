@@ -14,7 +14,7 @@ git push -u origin master
 
 CLONE
 
-git clone url
+git clone urls
 
 
 CREATE BRANCH
@@ -34,3 +34,18 @@ git merge nameofbranch -m "merging"
 PULL
 
 git pull origin master or anybranchname
+
+
+
+
+
+
+
+ADD NEW REPO
+git remote add origin2 https://github.com/Harshit080/Second.git
+
+git push origin2 master
+
+git add .
+git commit
+git push
