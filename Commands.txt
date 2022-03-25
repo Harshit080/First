@@ -35,16 +35,13 @@ PULL
 
 git pull origin master or anybranchname
 
-REVERT
 
-git revert <id>
 
 
 
 
 
 ADD NEW REPO
-
 git remote add origin2 https://github.com/Harshit080/Second.git
 
 git push origin2 master
