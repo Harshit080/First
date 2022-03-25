@@ -1,4 +1,6 @@
 IN LOCAL REPO
+git init
+git config — global user.name
 
 git add "file.txt"-- single file
 git add . -- multiple files
